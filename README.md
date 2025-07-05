@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi there, I'm Het Patel!
 
-<!--
-**hetl4046/hetl4046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **dedicated Full Stack Developer** with **4+ years of experience** in building clean, scalable, and efficient web applications. I specialize in crafting modern, responsive UIs and robust backend architectures that deliver real-world value.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React.js | Next.js | Angular | TypeScript | JavaScript | HTML5 | CSS3  
+- **Backend:** .NET Core (C#) | Node.js | NestJS  
+- **Database:** PostgreSQL (PGAdmin)  
+- **Cloud & DevOps:** Azure | AWS | REST APIs | Git  
+- **Tools:** Visual Studio Code | Postman | Figma | Jira
+
+### 🧠 Currently Exploring
+
+- 🐍 Python  
+- 🤖 Artificial Intelligence & Generative AI (LLMs, Prompt Engineering, OpenAI APIs)  
+- 🧪 Building side projects to sharpen my AI + Web integration skills
+
+### 🎯 What I Do
+
+- Solve complex problems with simple, maintainable code  
+- Build and optimize full-stack solutions from frontend to database  
+- Collaborate in agile teams with a focus on delivering business value  
+- Constantly learning and experimenting with new tech
+
+### 📫 Let's Connect
+
+If you're working on exciting projects or want to collaborate on open-source, feel free to reach out!
+  
+- 💼 [LinkedIn](https://www.linkedin.com/in/het-patel-215a09210)  
+- 📬 Email: hetpatel037@gmail.com
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
+Thanks for visiting my profile! 🙌
+
